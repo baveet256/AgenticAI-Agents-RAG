@@ -1,3 +1,4 @@
 .env
 venv/
 myenv/
+LANGGRAPH/AdvancedRAG/chroma_db
