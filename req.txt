@@ -1,0 +1,17 @@
+pydantic>=2.7.4,<3.0
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+pymupdf
+langchain-text-splitters
+dotenv
+langchain-openai
+beautifulsoup4
+faiss-cpu
+langchain_groq
+langserve
+uvicorn
+arxiv
+wikipedia
